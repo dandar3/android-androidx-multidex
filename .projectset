@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <psf version="2.0">
 <provider id="org.eclipse.team.svn.core.svnnature">
-<project reference="1.0.1,https://github.com/dandar3/android-androidx-multidex/tags/2.0.0,androidx-multidex,007e2617e216001a128d9c856fbc4171;https://github.com/dandar3/android-androidx-multidex;https://github.com/dandar3/android-androidx-multidex;branches;tags;trunk;true;9018ae45-a64b-2592-8719-ce57b7db7bff;https://github.com/dandar3/android-androidx-multidex;;false;;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-multidex/tags/2.0.1,androidx-multidex,007e2617e216001a128d9c856fbc4171;https://github.com/dandar3/android-androidx-multidex;https://github.com/dandar3/android-androidx-multidex;branches;tags;trunk;true;9018ae45-a64b-2592-8719-ce57b7db7bff;https://github.com/dandar3/android-androidx-multidex;;false;;;0"/>
 </provider>
 </psf>
